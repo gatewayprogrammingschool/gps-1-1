@@ -1,2 +1,5 @@
 # gps-1-1
-GitHub Lesson
+
+This repository is intended for use by [http://gatewayprogramming.school Gateway Programming School's students.]
+
+Students should click the Fork button to create a copy of this repository in their GitHub workspace.  Students should then follow the instructions in the text to finish the assignment.
